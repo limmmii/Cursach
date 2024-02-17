@@ -1,0 +1,78 @@
+@media screen and (max-width: 768px){
+    .star-screen{
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    
+    .start-text{
+        margin-bottom: 100px;
+    }
+
+    .main-button-set{
+        display: flex;
+        justify-content: center;
+    }
+
+    .section-two{
+        padding: 80px 160px 100px;
+    }
+
+    .about-all{
+        flex-wrap: wrap-reverse;
+        justify-content: center;
+    }
+
+    .abot-text{
+        margin-bottom: 80px;
+    }
+
+    .section-three{
+        padding: 80px 30px 100px;
+    }
+
+    .cards-wrap{
+        flex-wrap: wrap;
+    }
+
+    .woody{
+        display: none;
+    }
+
+    .section-four{
+        padding: 80px 69px 100px;
+    }
+
+    .line-item{
+        flex-wrap: wrap;
+    }
+
+    .item{
+        margin-bottom: 55px;
+    }
+
+    .section-five{
+        padding: 80px 130px 100px;
+    }
+
+    .donation-wrap{
+        flex-wrap: wrap-reverse;
+        justify-content: center;
+    }
+
+    .don-text{
+        margin-bottom: 60px;
+    }
+
+    .section-footer{
+        padding: 30px 30px 0;
+    }
+
+    .foot-display{
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .foot-text{
+        margin-bottom: 65px;
+    }
+}
